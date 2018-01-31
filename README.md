@@ -8,7 +8,8 @@ The story was complemented by video of 'Four stories of rough sleeping in Englan
 
 ## Get the data
 
-* Ministry of Housing, Communities and Local Government (MHCLG):[Rough Sleeping Statistics Autumn 2017, England](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/676097/Rough_Sleeping_Autumn_2017_Statistical_Release.pdf)
+* [Rough sleeping statistics England autumn 2017 tables 1, 2a, 2b and 2c (XLS)](https://github.com/BBC-Data-Unit/rough-sleeping-2017/blob/master/Rough%20sleeping%20statistics%20England%20autumn%202017.xlsx)
+* PDF: Ministry of Housing, Communities and Local Government (MHCLG):[Rough Sleeping Statistics Autumn 2017, England](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/676097/Rough_Sleeping_Autumn_2017_Statistical_Release.pdf)
 
 ## Visualisation
 
